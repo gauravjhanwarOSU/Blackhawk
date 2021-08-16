@@ -3,8 +3,10 @@
 
 
 Main files:
+ * [`Blackhawk.html`](Blackhawk.html) - HTML file to view case study on a browser
  * `Blackhawk.ipynb` - Jupyter notebook with code, EDA and explanations
  * `ClickCounts.txt` - Txt file with input data
+ 
 
 
 How to reproduce the results and analysis:
